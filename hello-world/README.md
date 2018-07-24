@@ -4,6 +4,8 @@
 
 + Reason: Not Install The Rabbitmq-server
 
+
+
 	sudo apt install rabbitmq-server
 
 
